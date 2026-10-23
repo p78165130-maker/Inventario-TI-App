@@ -1,0 +1,6 @@
+{
+  "name": "InventarioPro TI - Control de Equipos y Excel CSV",
+  "description": "Sistema de inventario de equipos y activos TI con soporte para importación y exportación CSV de Excel con Placa, Nombre de Equipo, Usuario, Fabricante, Modelo, Serie, IP, S.O., RAM, Disco, Categoría, Departamento y Ubicación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
